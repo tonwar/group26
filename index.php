@@ -1,15 +1,21 @@
 <?php
-echo "hi";
-echo "hi Miha";
-hgdfjhfkhfhkjh fcxg cf cf instanceof  cf
- g
-  fdg
-  fgd
-  f
+asdasdasdas
+asd
+asd
+asd
+asd
+as
+da
+s
+da
+sd
+a
+da
+ds
+d
+a
+sda
+sd
 
-  dfg
-  df
-  gdf
-
-   gd
-    fg
+sd
+as
